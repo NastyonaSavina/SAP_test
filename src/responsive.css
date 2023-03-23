@@ -1,0 +1,37 @@
+
+  @media only screen and (min-width: 360px) {
+
+    header div.container{
+        height: 60px;
+    } 
+   
+  }
+
+
+
+  
+   @media only screen and (min-width: 768px) {
+       div.container {
+           margin: 0 auto;
+           width: 768px;
+           background-color: blue;
+           padding: 0px 32px;
+       }
+
+        /* header div.logo-area {
+            margin-left: 32px;
+        }
+
+        .btn-area{
+            margin-right: 32px;
+        } */
+
+
+   }
+
+
+    @media only screen and (min-width: 1024px) {
+        div.container {
+            padding: 0px 60px;
+          }
+        }
