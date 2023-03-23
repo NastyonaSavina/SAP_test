@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/175.37181f6d.chunk.css","mappings":"AAAA,MAEI,wBAAyB,CADzB,YAEJ","sources":["components/Main/Hero/Hero.css"],"sourcesContent":[".hero {\n    height: 500px;\n    background-color: #48b368;\n}"],"names":[],"sourceRoot":""}

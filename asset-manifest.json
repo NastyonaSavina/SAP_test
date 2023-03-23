@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SAP_test/static/css/main.55aaaca4.css",
+    "main.js": "/SAP_test/static/js/main.1c3cf558.js",
+    "static/css/175.37181f6d.chunk.css": "/SAP_test/static/css/175.37181f6d.chunk.css",
+    "static/js/175.d1a60b9e.chunk.js": "/SAP_test/static/js/175.d1a60b9e.chunk.js",
+    "index.html": "/SAP_test/index.html",
+    "main.55aaaca4.css.map": "/SAP_test/static/css/main.55aaaca4.css.map",
+    "main.1c3cf558.js.map": "/SAP_test/static/js/main.1c3cf558.js.map",
+    "175.37181f6d.chunk.css.map": "/SAP_test/static/css/175.37181f6d.chunk.css.map",
+    "175.d1a60b9e.chunk.js.map": "/SAP_test/static/js/175.d1a60b9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55aaaca4.css",
+    "static/js/main.1c3cf558.js"
+  ]
+}
