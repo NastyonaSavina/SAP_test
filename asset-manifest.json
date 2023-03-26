@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/SAP_test/static/css/main.55aaaca4.css",
-    "main.js": "/SAP_test/static/js/main.1c3cf558.js",
-    "static/css/175.37181f6d.chunk.css": "/SAP_test/static/css/175.37181f6d.chunk.css",
-    "static/js/175.d1a60b9e.chunk.js": "/SAP_test/static/js/175.d1a60b9e.chunk.js",
-    "index.html": "/SAP_test/index.html",
-    "main.55aaaca4.css.map": "/SAP_test/static/css/main.55aaaca4.css.map",
-    "main.1c3cf558.js.map": "/SAP_test/static/js/main.1c3cf558.js.map",
-    "175.37181f6d.chunk.css.map": "/SAP_test/static/css/175.37181f6d.chunk.css.map",
-    "175.d1a60b9e.chunk.js.map": "/SAP_test/static/js/175.d1a60b9e.chunk.js.map"
+    "main.css": "/SPA_test/static/css/main.3a7c8526.css",
+    "main.js": "/SPA_test/static/js/main.fdce7f17.js",
+    "static/css/175.decb387e.chunk.css": "/SPA_test/static/css/175.decb387e.chunk.css",
+    "static/js/175.2928353e.chunk.js": "/SPA_test/static/js/175.2928353e.chunk.js",
+    "static/media/hero-img-mob.jpg": "/SPA_test/static/media/hero-img-mob.915212717d7794270fbf.jpg",
+    "index.html": "/SPA_test/index.html",
+    "main.3a7c8526.css.map": "/SPA_test/static/css/main.3a7c8526.css.map",
+    "main.fdce7f17.js.map": "/SPA_test/static/js/main.fdce7f17.js.map",
+    "175.decb387e.chunk.css.map": "/SPA_test/static/css/175.decb387e.chunk.css.map",
+    "175.2928353e.chunk.js.map": "/SPA_test/static/js/175.2928353e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55aaaca4.css",
-    "static/js/main.1c3cf558.js"
+    "static/css/main.3a7c8526.css",
+    "static/js/main.fdce7f17.js"
   ]
 }
