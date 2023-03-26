@@ -5,32 +5,13 @@
 }
 
 
-
-.container {
-    min-width: 360px;
-    margin: 0 auto; 
-    padding: 0px 16px;
-    font-family: var(--primary-font-family);
-        
-}
 .header-area{
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0;
+    height: 60px;
 }
-
-.main-btn{
-    width: 100px;
-    height: 34px;
-    background: var(--btn-main-color);
-    border-radius: 80px;
-    font-size: 16px;
-    line-height: 1.63;
-    border: none;
-    
-}
-
 
 
 .btn-area{

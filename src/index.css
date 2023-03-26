@@ -1,27 +1,4 @@
 
-body {
-  font-family: var(--primary-font-family);
-  color: var(--primary-text-color-theme-light);
-  font-size: 16px;
-  line-height: 1.625;
-  letter-spacing: 0.03em;
-  /* background-color: var(--backgound-color); */
-  box-sizing: border-box;
-  
-}
-* {
-  padding: 0;
-  margin: 0;
-}
-
-button {
-  cursor: pointer;
-}
-
-main{
-  background-color: var(--backgound-color);
-}
-
 :root {
   --primary-font-family: 'Nunito', sans-serif;
   --primary-text-color-theme-dark: #FFFFFF;
@@ -32,4 +9,40 @@ main{
   --selected-color: #00BDD3;
   --backgound-color: #F8F8F8;
   --background-second-color: #FFFFFF;
+}
+
+body {
+  font-family: var(--primary-font-family);
+  color: var(--primary-text-color-theme-light);
+  font-size: 16px;
+  line-height: 1.625;
+  /* letter-spacing: 0.03em; */
+  box-sizing: border-box;
+  
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+  font-family: var(--primary-font-family);
+}
+
+main{
+  background-color: var(--backgound-color);
+}
+
+
+
+.main-btn {
+  width: 100px;
+  height: 34px;
+  background: var(--btn-main-color);
+  border-radius: 80px;
+  font-size: 16px;
+  line-height: 1.63;
+  border: none;
+
 }

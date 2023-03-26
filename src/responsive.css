@@ -1,34 +1,59 @@
 
   @media only screen and (min-width: 360px) {
+    .container {
+      margin: 0 auto;
+      padding: 0px 16px;
 
-    header div.container{
-        height: 60px;
-    } 
-   
-  }
-
- 
-   @media only screen and (min-width: 768px) {
-      .container {
-           margin: 0 auto;
-           width: 768px;
-           padding: 0px 32px;
-       }
-
-  }
-
-
-    @media only screen and (min-width: 1024px) {
-        .container {
-            padding: 0px 60px;
-            width: 1024px;
-          }
-        }
-
-
-    @media only screen and (min-width: 2560px) {
-      .container {
-        padding: 0px;
-        width: 1170px;
-      }
     }
+  
+  }
+ 
+  @media only screen and (min-width: 768px) {
+    .container {
+      margin: 0 auto;
+      padding: 0px 32px;
+    }
+
+    section.hero{
+      padding-top: 89px;
+      padding-bottom: 88px;
+    }
+
+    .hero-area{
+      padding: 0px 194px;
+    }
+  
+  }
+
+
+  @media only screen and (min-width: 1024px) {
+    .container {
+      padding: 0px 60px;
+    }
+  
+
+    .hero-area{
+      padding: 0px 322px;
+    }
+
+    section.hero{
+      padding-top: 164px;
+      padding-bottom: 163px;
+    }
+
+  }
+
+
+  @media only screen and (min-width: 2560px) {
+    .container {
+      padding: 0px;
+      width: 1170px;
+    }
+
+    .hero-area{
+      width: 380px;
+    }
+    .hero{
+      width: 1170px;
+    }
+  }
