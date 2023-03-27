@@ -1,11 +1,12 @@
 .hero {
     margin: 0 auto;
+    margin-bottom: 140px;
     min-width: 320px;
     padding-top: 40px;
     padding-bottom: 71px;
     background-color: #00000050;
     
-    background-image: url(../../../images/backgroundHero/hero-img-mob.jpg);
+    background-image: url(../../../images/heroImages/hero-img-mob.jpg);
     background-size: cover;
     
     background-position: center;

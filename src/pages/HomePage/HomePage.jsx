@@ -1,13 +1,13 @@
 
-import { ProductsGallery } from '../../components/Main/ProductsGallery';
 import { Hero } from '../../components/Main/Hero/Hero';
+import { GetRequestBlock } from '../../components/Main/GetRequestBlock/GetRequestBlock';
 
 
 const HomePage = () => {
     return (
         <>
             <Hero />
-            <ProductsGallery />
+            <GetRequestBlock />
          
         </>
        

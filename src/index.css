@@ -1,9 +1,12 @@
 
+/* main styles */
+
 :root {
   --primary-font-family: 'Nunito', sans-serif;
   --primary-text-color-theme-dark: #FFFFFF;
-  --primary-text-color-theme-light: #000000DE;
+  --primary-text-color-theme-light: #000000DD;
   --btn-main-color: #F4E041;
+  --btn-hover-color: #FFE302;
   --btn-inactive-color: #B4B4B4;
 
   --selected-color: #00BDD3;
@@ -15,19 +18,8 @@ body {
   font-family: var(--primary-font-family);
   color: var(--primary-text-color-theme-light);
   font-size: 16px;
-  line-height: 1.625;
-  /* letter-spacing: 0.03em; */
-  box-sizing: border-box;
+  line-height: 1.62;
   
-}
-* {
-  padding: 0;
-  margin: 0;
-}
-
-button {
-  cursor: pointer;
-  font-family: var(--primary-font-family);
 }
 
 main{
@@ -35,14 +27,59 @@ main{
 }
 
 
-
 .main-btn {
   width: 100px;
   height: 34px;
-  background: var(--btn-main-color);
+  background-color: var(--btn-main-color);
   border-radius: 80px;
+  font-family: var(--primary-font-family);
   font-size: 16px;
   line-height: 1.63;
   border: none;
 
 }
+
+.main-btn:hover,
+.main-btn:focus{
+  background-color: var(--btn-hover-color);
+}
+
+/* reset */
+
+img {
+  display: block;
+  padding: 0;
+
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border: 0;
+}
+
+
+
+.list, li {
+    list-style: none;
+
+}
+
+
+h1,
+h2,
+h3,
+p,
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
